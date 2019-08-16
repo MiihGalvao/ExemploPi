@@ -12,8 +12,15 @@
     
     <developers>
         <id>MiihGalvao</id>
-        <name>Milena Galvão</name>
+        <name>Milena Galvao</name>
     </developers>
+    
+    <dependencies>
+        <groupId>mysql</groupId>
+        <artifactId>mySql-connector-java</artifactId>
+        <version>netbeans 8.0</version>
+    </dependencies>
+    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
