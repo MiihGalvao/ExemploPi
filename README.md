@@ -1,2 +1,5 @@
 # ExemploPi
-Exemplo1PI
+
+Projeto Criado em Java.
+
+Gerenciador de produtos.
